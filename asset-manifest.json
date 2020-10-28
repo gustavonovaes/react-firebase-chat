@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-firebase-chat/static/css/main.85e24194.chunk.css",
+    "main.js": "/react-firebase-chat/static/js/main.675ef618.chunk.js",
+    "main.js.map": "/react-firebase-chat/static/js/main.675ef618.chunk.js.map",
+    "runtime-main.js": "/react-firebase-chat/static/js/runtime-main.6275de41.js",
+    "runtime-main.js.map": "/react-firebase-chat/static/js/runtime-main.6275de41.js.map",
+    "static/js/2.6e67778f.chunk.js": "/react-firebase-chat/static/js/2.6e67778f.chunk.js",
+    "static/js/2.6e67778f.chunk.js.map": "/react-firebase-chat/static/js/2.6e67778f.chunk.js.map",
+    "index.html": "/react-firebase-chat/index.html",
+    "precache-manifest.6dcd0f0d42c1b3240ff690c23ba53af4.js": "/react-firebase-chat/precache-manifest.6dcd0f0d42c1b3240ff690c23ba53af4.js",
+    "service-worker.js": "/react-firebase-chat/service-worker.js",
+    "static/css/main.85e24194.chunk.css.map": "/react-firebase-chat/static/css/main.85e24194.chunk.css.map",
+    "static/js/2.6e67778f.chunk.js.LICENSE.txt": "/react-firebase-chat/static/js/2.6e67778f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6275de41.js",
+    "static/js/2.6e67778f.chunk.js",
+    "static/css/main.85e24194.chunk.css",
+    "static/js/main.675ef618.chunk.js"
+  ]
+}
